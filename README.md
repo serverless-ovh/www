@@ -16,3 +16,7 @@
 
 fragment artykułu ze strony:
 https://bulldogjob.pl/articles/1047-serverless-czym-jest-i-jak-dziala
+
+
++ [Więcej o firmie Softreck](http://git.softreck.com/)
++ [git repositories](https://softreck.com/)
