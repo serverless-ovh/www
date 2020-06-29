@@ -1,5 +1,4 @@
-# www
-Landing page
+# www.serverless.ovh
 
 [Serverless - czym jest i jak działa?](https://bulldogjob.pl/articles/1047-serverless-czym-jest-i-jak-dziala)
 
